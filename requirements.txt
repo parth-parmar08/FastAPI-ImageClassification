@@ -1,0 +1,28 @@
+# tensorflow
+# numpy
+# Pillow
+# opencv-python
+# matplotlib
+# pickle5
+# scikit-learn
+# keras
+# random2
+# pandas
+# uvicorn
+# starlette
+# jinja2
+# python-multipart
+# typing-extensions==4.0.1
+# pydantic==2.5.3
+# pydantic-core==2.14.6
+# fastapi==0.106.0
+# pip install keras==2.13.1 numpy==1.24.3 anyio==3.7.1 starlette==0.27.0 typing-extensions==4.8.0
+tensorflow==2.13.1
+keras==2.13.1
+numpy==1.24.3
+anyio==3.7.1
+starlette==0.27.0
+typing-extensions==4.8.0
+pydantic-core==2.14.6
+pydantic==2.5.3
+fastapi==0.106.0

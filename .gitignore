@@ -1,0 +1,12 @@
+venv
+digitSignLanguage.h5
+American Sign Language Digits Dataset
+digitSignLanguage(1).h5
+TestImages
+digitSignLanguage_updated.h5
+pre.py
+app.py
+__pycache__
+RemoveOverFit.py
+TestingModels
+Upd_ImgCls.py
